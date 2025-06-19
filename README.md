@@ -58,8 +58,28 @@ An Android application built using **Kotlin**, implementing **MVVM architecture*
 ---
 
 ## 🔧 How to Run the Project
-![splash](https://github.com/user-attachments/assets/fe5c1b96-65b1-4146-968b-b7f8cefedce8)
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Mrjemini/Store-App.git
+
+
+## 📸 Screenshots
+
+| Splash Screen | Product List | Detail Screen | Search |
+
+1.Splash Screen 
+
+![splash](https://github.com/user-attachments/assets/57aa3dad-b78b-419e-8714-76e6bb453b70)
+
+2.Product List
+
+![product_list](https://github.com/user-attachments/assets/59ad7848-ffcf-42db-b74b-ea14fc0dec5a)
+
+3.Detail Screen
+![detail](https://github.com/user-attachments/assets/9d6edbf4-2af4-4702-b48d-49cfa0d34c4b)
+
+4.Search
+![search](https://github.com/user-attachments/assets/61f3f596-2952-4baa-920d-dc30ec069125)
+
+
