@@ -61,4 +61,4 @@ An Android application built using **Kotlin**, implementing **MVVM architecture*
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mrjemini/Store-App.git
