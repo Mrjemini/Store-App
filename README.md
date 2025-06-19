@@ -76,10 +76,17 @@ An Android application built using **Kotlin**, implementing **MVVM architecture*
 
 ![product_list](https://github.com/user-attachments/assets/59ad7848-ffcf-42db-b74b-ea14fc0dec5a)
 
+
 3.Detail Screen
+
 ![detail](https://github.com/user-attachments/assets/9d6edbf4-2af4-4702-b48d-49cfa0d34c4b)
 
+
 4.Search
+
+
 ![search](https://github.com/user-attachments/assets/61f3f596-2952-4baa-920d-dc30ec069125)
+
+
 
 
