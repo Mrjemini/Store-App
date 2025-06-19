@@ -58,6 +58,7 @@ An Android application built using **Kotlin**, implementing **MVVM architecture*
 ---
 
 ## 🔧 How to Run the Project
+![splash](https://github.com/user-attachments/assets/fe5c1b96-65b1-4146-968b-b7f8cefedce8)
 
 1. **Clone the Repository**
    ```bash
