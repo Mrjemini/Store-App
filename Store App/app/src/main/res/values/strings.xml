@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store App</string>
+    <string name="lbl_app_name">Store App</string>
+    <string name="lbl_all_product_list">All Product List</string>
+    <string name="lbl_add_card">Add to Cart</string>
+    <string name="lbl_loading">Loading…</string>
+    <string name="data_not_found">Data Not Found</string>
+</resources>
